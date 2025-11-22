@@ -1,8 +1,0 @@
-<!DOCTYPE RCC><RCC version="1.0">
-<qresource prefix="/">
-    <file>qml/Login.qml</file>
-    <file>qml/Main.qml</file>
-    <file>resources/icon.png</file>
-    <file>resources/logo.png</file>
-</qresource>
-</RCC>
