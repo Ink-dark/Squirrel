@@ -1,6 +1,6 @@
 <!DOCTYPE RCC>
 <RCC version="1.0">
-    <qresource prefix="/qml">
-        <file>Main.qml</file>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
     </qresource>
 </RCC>
